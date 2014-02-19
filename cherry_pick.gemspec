@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'cherry_pick/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "overload"
+  spec.name          = "cherry_pick"
   spec.version       = CherryPick::VERSION
   spec.authors       = ["Alex Sunderland"]
   spec.email         = ["alex.sunderland@gmail.com"]
