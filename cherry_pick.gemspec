@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["alex.sunderland@gmail.com"]
   spec.description   = "Cherry pick the methods you want."
   spec.summary       = "A gem that allows cherry picking a single method from a required class or module."
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/AgentAntelope/cherry_pick"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
